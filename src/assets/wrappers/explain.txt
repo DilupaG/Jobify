@@ -1,0 +1,24 @@
+wrappers are css components.
+
+<main>
+
+    h1 + css
+    nav + css
+    p + css
+    img + css
+    div + css
+
+<main>
+
+css add karaddi component eken component ekata css add karanna onane
+ehema nathuwa Wrapper kila css componet ekak hdala eke css tika add karala main component eka wenuwata eka add karanwa
+
+<Wrapper> + css
+    h1
+    nav
+    p
+    img
+    div
+</Wrapper>
+
+
